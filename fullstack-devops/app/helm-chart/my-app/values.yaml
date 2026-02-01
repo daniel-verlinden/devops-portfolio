@@ -1,0 +1,10 @@
+replicas: 2
+
+image:
+  repository: devops-project
+  tag: latest
+
+service:
+  port: 80       # exposed port
+  nodePort: 30007
+
