@@ -65,7 +65,7 @@ curl http://localhost:8080
 You should see:
 
 ```
-Hello, DevOps World!
+Hello, welcome to my portfolio project!!
 ```
 
 ---
